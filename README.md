@@ -1,5 +1,5 @@
-[Produce X 101 Rankings](https://ajyu124.github.io/px101ranking/)
+[Produce 101 Jpaan Rankings](https://ajyu124.github.io/p101jpranking/)
 
-An interactive ranking chart for MNet's Produce X 101 made with d3.js. I will update this website after each episode as the season progresses.
+An interactive ranking chart for Produce 101 Japan made with d3.js. I will update this website after each episode as the season progresses.
 
-![alt text](Produce_X101.jpg "Screenshot")
+![alt text](Produce_101JP.jpg "Screenshot")
