@@ -134,7 +134,7 @@ path.ranking {
       font-weight: 700; }
     #profile #textWrapper #infoLetter {
       top: -3px; }
-    #profile #textWrapper #infoCompany {
+    #profile #textWrapper #infoPerfecture {
       margin: 5px 0 8px; }
 
 .pie .arc text {
@@ -194,7 +194,7 @@ path.ranking {
     width: 50px; }
   #top #name, #top .nameWidth {
     width: 115px; }
-  #top #company, #top .companyWidth {
+  #top #perfecture, #top .perfectureWidth {
     width: 95px; }
 
 #footer {
