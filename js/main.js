@@ -150,7 +150,7 @@ function showChart(key, asc) {
             if (rank == 1000) {
                 rank = "-";
             }
-            return td(rank, "smWidth") + td(d.name, "nameWidth") + td(d.perfecture, "perfectureWidth") + td(letter, "smWidth") + td(letter2, "smWidth") + td(displayRankChange(d), "rankWidth");
+            return td(rank, "smWidth") + td(d.name, "nameWidth") + td(d.prefecture, "prefectureWidth") + td(letter, "smWidth") + td(letter2, "smWidth") + td(displayRankChange(d), "rankWidth");
         })
         .on("mouseover", function(d) {
             selectLine(d, "#line" + d.latestRank);
@@ -175,7 +175,7 @@ function displayProfile(d) {
         .text(d.letter2)
         .css("background", getBackground2(d))
         .css("color", getTextColor2(d));
-    $("#infoPerfecture").text(d.perfecture);
+    $("#infoPrefecture").text(d.prefecture);
     $("#infoRank").html(getRankInfo(d));
 }
 
@@ -376,7 +376,7 @@ function getRank(n) {
 function parseLine(row) {
     var r = {};
     r.name = row.Name;
-    r.perfecture = row.Perfecture;
+    r.prefecture = row.Prefecture;
     r.letter = row["Level Audition"];
      r.letter2 = row["Re-Evaluation"];
     r.specialNote = row.note;
