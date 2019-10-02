@@ -134,7 +134,7 @@ path.ranking {
       font-weight: 700; }
     #profile #textWrapper #infoLetter {
       top: -3px; }
-    #profile #textWrapper #infoPerfecture {
+    #profile #textWrapper #infoPrefecture {
       margin: 5px 0 8px; }
 
 .pie .arc text {
@@ -194,7 +194,7 @@ path.ranking {
     width: 50px; }
   #top #name, #top .nameWidth {
     width: 115px; }
-  #top #perfecture, #top .perfectureWidth {
+  #top #prefecture, #top .prefectureWidth {
     width: 95px; }
 
 #footer {
