@@ -82,6 +82,20 @@ img.arrow {
     font-weight: bold;
 }
 
+.letter2 {
+    border-radius: 100%;
+    box-sizing: border-box;
+    width: 28px;
+    height: 28px;
+    padding-top: 4px;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
 .change {
     padding-left: 3px;
     font-weight: bold;
@@ -161,6 +175,10 @@ path.ranking {
         #infoLetter {
             top: -3px;
         }
+        
+        #infoLetter2 {
+            top: -3px;
+        }
 
         #infoPrefecture {
             margin: 5px 0 8px;
@@ -237,7 +255,7 @@ path.ranking {
         }
     }
 
-    #latestRank, #letter, #rankChange, .smWidth{
+    #latestRank, #letter, #letter2, #rankChange, .smWidth{
         width: 20px;
     }
     #rankChange, .rankWidth {
