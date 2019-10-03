@@ -134,6 +134,8 @@ path.ranking {
       font-weight: 700; }
     #profile #textWrapper #infoLetter {
       top: -3px; }
+ #profile #textWrapper #infoLetter2 {
+      top: -3px; }
     #profile #textWrapper #infoPrefecture {
       margin: 5px 0 8px; }
 
@@ -188,7 +190,7 @@ path.ranking {
     padding: 10px 15px !important; }
     #top th:hover {
       color: black; }
-  #top #latestRank, #top #letter, #top #rankChange, #top .smWidth {
+  #top #latestRank, #top #letter, #top #letter2, #top #rankChange, #top .smWidth {
     width: 17px; }
   #top #rankChange, #top .rankWidth {
     width: 50px; }
