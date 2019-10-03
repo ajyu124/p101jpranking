@@ -117,25 +117,25 @@ path.ranking {
 /* Info */
 #profile {
   margin-top: -20px;
-  margin-left: 3px;
+  margin-left: 40px;
   height: 160px; }
   #profile #picWrapper {
     float: left;
-    width: 150px; }
+    width: 180px; }
     #profile #picWrapper img {
       width: 100%; }
   #profile #textWrapper {
     display: inline-block;
     vertical-align: top;
-    margin-left: 20px;
+    margin-left: 40px;
     padding-top: 40px; }
     #profile #textWrapper #infoName {
       font-size: 20px;
       font-weight: 700; }
     #profile #textWrapper #infoLetter {
-      margin: 5px 0 8px; }
+      top: -3px; }
  #profile #textWrapper #infoLetter2 {
-      margin: 5px 0 8px; }
+      top: -3px; }
     #profile #textWrapper #infoPrefecture {
       margin: 5px 0 8px; }
 
@@ -195,9 +195,9 @@ path.ranking {
   #top #rankChange, #top .rankWidth {
     width: 50px; }
   #top #name, #top .nameWidth {
-    width: 100px; }
+    width: 115px; }
   #top #prefecture, #top .prefectureWidth {
-    width: 130px; }
+    width: 95px; }
 
 #footer {
   padding: 20px 50px;
