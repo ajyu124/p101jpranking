@@ -117,25 +117,25 @@ path.ranking {
 /* Info */
 #profile {
   margin-top: -20px;
-  margin-left: 15px;
+  margin-left: 3px;
   height: 160px; }
   #profile #picWrapper {
     float: left;
-    width: 180px; }
+    width: 150px; }
     #profile #picWrapper img {
       width: 100%; }
   #profile #textWrapper {
     display: inline-block;
     vertical-align: top;
-    margin-left: 40px;
+    margin-left: 20px;
     padding-top: 40px; }
     #profile #textWrapper #infoName {
       font-size: 20px;
       font-weight: 700; }
     #profile #textWrapper #infoLetter {
-      top: -3px; }
+      margin: 5px 0 8px; }
  #profile #textWrapper #infoLetter2 {
-      top: -3px; }
+      margin: 5px 0 8px; }
     #profile #textWrapper #infoPrefecture {
       margin: 5px 0 8px; }
 
