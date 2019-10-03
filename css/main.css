@@ -191,11 +191,11 @@ path.ranking {
     #top th:hover {
       color: black; }
   #top #latestRank, #top #letter, #top #letter2, #top #rankChange, #top .smWidth {
-    width: 10px; }
+    width: 20px; }
   #top #rankChange, #top .rankWidth {
-    width: 40px; }
+    width: 50px; }
   #top #name, #top .nameWidth {
-    width: 165px; }
+    width: 135px; }
   #top #prefecture, #top .prefectureWidth {
     width: 95px; }
 
