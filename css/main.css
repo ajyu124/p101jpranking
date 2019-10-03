@@ -195,9 +195,9 @@ path.ranking {
   #top #rankChange, #top .rankWidth {
     width: 50px; }
   #top #name, #top .nameWidth {
-    width: 105px; }
+    width: 140px; }
   #top #prefecture, #top .prefectureWidth {
-    width: 95px; }
+    width: 80px; }
 
 #footer {
   padding: 20px 50px;
