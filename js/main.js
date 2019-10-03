@@ -376,7 +376,7 @@ function getRank(n) {
 function parseLine(row) {
     var r = {};
     r.name = row.Name;
-    r.prefecture = row.["Prefecture"];
+    r.prefecture = row["Prefecture"];
     r.letter = row["Level Audition"];
      r.letter2 = row["Re-Evaluation"];
     r.specialNote = row.note;
